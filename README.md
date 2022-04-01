@@ -1,2 +1,10 @@
-# ITBA-3206_TeamDisastersAnalImpact-
-Final Project in BAT 404 - Analytics Techniques and Tools
+# Strategic Preparedness for Disaster with DIA
+_Introduction_
+
+_Problem Statement_
+
+_Significance of the Proposed Project_
+
+_Methods_
+
+_Expected Output_
