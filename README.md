@@ -25,4 +25,6 @@ DRR approaches and tools will prevent relief work from rebuilding the vulnerabil
 
 **_Methods_**
 
+The Disasters Impact Analysis(DIA)method is to help those organizations have more understanding of disaster impacts and facilitate their decision making in order to prepare better mitigation plans.The objectives of the first study were to: document the impacts of natural disasters on social and economic development of the Philippines; assess the country's current capacity to reduce and manage disaster risk; and identify options for more effective management of that risk. This follow-on study is intended to support the first study and examine in more detail some of the specific areas under the above themes and provide directions for necessary actions.
+
 **_Expected Output_**
