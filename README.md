@@ -28,3 +28,14 @@ DRR approaches and tools will prevent relief work from rebuilding the vulnerabil
 The Disasters Impact Analysis(DIA)method is to help those organizations have more understanding of disaster impacts and facilitate their decision making in order to prepare better mitigation plans.The objectives of the first study were to: document the impacts of natural disasters on social and economic development of the Philippines; assess the country's current capacity to reduce and manage disaster risk; and identify options for more effective management of that risk. This follow-on study is intended to support the first study and examine in more detail some of the specific areas under the above themes and provide directions for necessary actions.
 
 **_Expected Output_**
+
+
+The overall goal of Strategic Preparedness for Disaster with DIA is to improve the preparedness and response of Disaster Management Services (DMS) involved in emergency situations in order to reduce casualties and improve survival rates among mass casualties. The expected impacts of the Strategic Preparedness for Disaster with DIA  project are:
+
+•	Improved preparedness of Disaster Management Services
+•	Improved response of Disaster Management Services
+•	Improved cross-border co-operation
+•	A comprehensive set of operating procedures & processes
+•	A comprehensive set of tools
+•	A comprehensive training tools
+•	Improved logistics
