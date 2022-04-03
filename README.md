@@ -13,6 +13,9 @@ To protect your home and family, it's important to be prepared and have a plan. 
 
 **_Significance of the Proposed Project_**
 
+A disaster risk reduction approach helps us consider our emergency response activities in light of existing and new disaster risks. This empowers us to plan or alter our exercises so that individuals and communities gotten to be more secure and more disaster-resilient, as well as shielding endeavors to make and extend empowering conditions for maintainable destitution easing and development.
+
+DRR approaches and tools will prevent relief work from rebuilding the vulnerabilities that made people prone to similar disasters. DRR provides valuable insights into the underlying factors of vulnerability to hazards and the features of those hazards. It helps us identify and map local capacities to cope with these hazards. Ultimately, the DRR approach helps us conduct effective disaster response while reducing risks that similar disasters will reoccur. It also ensures that our emergency response does no harm by replacing or reinstating critical vulnerabilities.
 **_Methods_**
 
 **_Expected Output_**
