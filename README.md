@@ -1,6 +1,7 @@
 # Strategic Preparedness for Disaster with DIA
 **_Introduction_**
 
+The Philippines is vulnerable to natural disasters due to its location along the typhoon belt and the Pacific ring of fire. Thousands of lives have been lost, millions of people have been displaced, and hundreds of billions of dollars have been lost as a result of disaster events in the last decade.
 The Philippines is one of the most affected countries by natural disasters in the world this is because the Philippines is located along the Ring of Fire or the preferred term which is the typhoon belt where many earthquakes and eruptions will occur within its premises. Natural disasters are increasing the social and economic costs in the country as a result of population growth, migration, and global climate change (Natural Disaster Risk Management in the Philippines, 2005). According to Rosy Mina (2021) COVID19 pandemic was not the only disaster to strike the Philippines in 2020. The year started with a volcanic eruption and ended with two magnitude 6 earthquakes, one of which occurred on Christmas morning. Meanwhile, Typhoon Goni arrived, an end-of-season super storm that was the strongest in 2020. Disaster Risk Reduction provides the key strategic actions that emphasize activities centered on community awareness and understanding; emergency planning; Conducting local exercises and developing national disaster preparedness plan.
 
 Disasters can happen at any time. 
