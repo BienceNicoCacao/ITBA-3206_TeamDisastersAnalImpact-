@@ -51,3 +51,26 @@ The overall goal of Strategic Preparedness for Disaster with DIA is to improve t
 •	Improved understanding of public acceptance in major emergency management
 
 In addition to the most important technological results for improving the important crisis preparation and answers, additional objectives are that the project can offer improvements to existing technologies and methodologies that are most important to partners and end users.
+
+**_References_**
+
+Introduction resource 
+
+https://www.scirp.org/journal/paperinformation.aspx?paperid=93911
+
+https://www.researchgate.net/publication/346191484_Awareness_and_Practices_on_Disaster_Preparedness_of_Students_of_a_Public_High_School_in_Antique
+
+https://ecogroup3.weebly.com/chapter-2-review-of-related-literature.html
+
+https://dergipark.org.tr/en/pub/rigeo/article/634564
+
+https://data.humdata.org/dataset/philippines-who-is-doing-what-and-where-in-taal-volcano-eruption?force_layout=desktop
+
+https://openknowledge.worldbank.org/handle/10986/8754?locale-attribute=en
+
+https://openknowledge.worldbank.org/handle/10986/8754?locale-attribute=en
+
+https://www.ipl.org/essay/Essay-On-Natural-Disaster-In-The-Philippines-PKWBR9NPJE8R
+
+https://news.mongabay.com/2021/03/philippines-looks-to-improve-disaster-preparedness-with-geospatial-tech/
+
