@@ -24,11 +24,11 @@ A disaster risk reduction approach helps us consider our emergency response acti
 DRR approaches and tools will prevent relief work from rebuilding the vulnerabilities that made people prone to similar disasters. DRR provides valuable insights into the underlying factors of vulnerability to hazards and the features of those hazards. It helps us identify and map local capacities to cope with these hazards. Ultimately, the DRR approach helps us conduct effective disaster response while reducing risks that similar disasters will reoccur. It also ensures that our emergency response does no harm by replacing or reinstating critical vulnerabilities.
 
 
-Government: It helps the government to develop and prepare a local or national disaster management plan to ensure that there constituents know how to deal/respond in a disaster.
+**_Government:_** It helps the government to develop and prepare a local or national disaster management plan to ensure that there constituents know how to deal/respond in a disaster.
 
-Community: Provides education and protect the lives and livelihoods of communities and individuals who are most vulnerable to disasters or emergencies.
+**_Community:_** Provides education and protect the lives and livelihoods of communities and individuals who are most vulnerable to disasters or emergencies.
 
-Teacher and Students: The security of schools is important and DRR points at lessening the helplessness to, and affect of disasters on schools. It prepares both teachers and students for potential catastrophes, in this manner of decreasing the affect of the said disaster or catastrophe.
+**_Teacher and Students:_** The security of schools is important and DRR points at lessening the helplessness to, and affect of disasters on schools. It prepares both teachers and students for potential catastrophes, in this manner of decreasing the affect of the said disaster or catastrophe.
 
 **_Methods_**
 
