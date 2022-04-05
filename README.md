@@ -74,7 +74,7 @@ https://news.mongabay.com/2021/03/philippines-looks-to-improve-disaster-prepared
 
 https://www.ipl.org/essay/Disaster-Management-Thesis-Statement-PJN6EDENSG
 
-**_ Data sets used_**
+**_Data sets used_**
 
 https://datasetguide.com/dataset/cff7b10ced76bff0bf977ea7b3595a00/
 
