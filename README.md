@@ -39,23 +39,23 @@ The Disasters Impact Analysis(DIA)method is to help those organizations have mor
 
 The overall goal of Strategic Preparedness for Disaster with DIA is to improve the preparedness and response of Disaster Management Services (DMS) involved in emergency situations in order to reduce casualties and improve survival rates among mass casualties. The expected impacts of the Strategic Preparedness for Disaster with DIA  project are:
 
-•	Improved preparedness of Disaster Management Services
+• Improved preparedness of Disaster Management Services
 
-•	Improved response of Disaster Management Services
+• Improved reaction of Disaster Management Services
 
-•	Improved cross-border co-operation
+• Improved cross-border co-operation
 
-•	A comprehensive set of operating procedures & processes
+• A complete set of working procedures & processes
 
-•	A comprehensive set of tools
+• A complete set of tools
 
-•	A comprehensive training tools
+• A complete schooling tools
 
-•	Improved logistics
+• Improved logistics
 
-•	Improved understanding of legal, ethical and social issues in major emergency management
+• Improved expertise of legal, moral and social problems in essential emergency management
 
-•	Improved understanding of public acceptance in major emergency management
+• Improved expertise of public reputation in essential emergency management
 
 In addition to the most important technological results for improving the important crisis preparation and answers, additional objectives are that the project can offer improvements to existing technologies and methodologies that are most important to partners and end users.
 
