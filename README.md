@@ -49,7 +49,7 @@ The overall goal of Strategic Preparedness for Disaster with DIA is to improve t
 
 • A complete set of tools
 
-• A complete schooling tools
+• A complete training tools
 
 • Improved logistics
 
