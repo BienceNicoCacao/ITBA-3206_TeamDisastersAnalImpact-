@@ -81,9 +81,12 @@ https://news.mongabay.com/2021/03/philippines-looks-to-improve-disaster-prepared
 
 https://www.ipl.org/essay/Disaster-Management-Thesis-Statement-PJN6EDENSG
 
+https://www.academia.edu/31599996/_CASE_STUDY_AWARENESS_ON_DISASTER_AND_DISASTER_PREPAREDNESS_OF_SCIENCE_TECHNOLOGY_ENGINEERING_AND_MATHEMATICS_STUDENTS_
+
+https://www.academia.edu/30871046/Chapter_1_Problem_and_Its_Scope
+
 **_Data sets used_**
 
 https://datasetguide.com/dataset/cff7b10ced76bff0bf977ea7b3595a00/
 
 https://datasetguide.com/dataset/2ab18842186b0112053079efab9db420/
-
