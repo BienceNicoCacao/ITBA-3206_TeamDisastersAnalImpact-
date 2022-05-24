@@ -1,5 +1,5 @@
 
-<img src="images/world.jpg" width="1200" height="300">
+<img src="images/world.jpg" width="1200" height="500">
 
 # Strategic Preparedness for Disaster with DIA
 **_Introduction_**
