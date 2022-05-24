@@ -1,4 +1,5 @@
-![](images/world.jpg)
+
+<img src="image/world.jpg" width="100" height="100">
 
 # Strategic Preparedness for Disaster with DIA
 **_Introduction_**
