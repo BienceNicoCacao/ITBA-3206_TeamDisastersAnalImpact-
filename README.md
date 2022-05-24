@@ -1,3 +1,5 @@
+! [] (images/world.jpg)
+
 # Strategic Preparedness for Disaster with DIA
 **_Introduction_**
 
