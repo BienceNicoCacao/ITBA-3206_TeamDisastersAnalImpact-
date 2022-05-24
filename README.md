@@ -2,7 +2,7 @@
 <img src="images/world.jpg" width="1200" height="500">
 
 # Project Title: Strategic Preparedness for Disaster with DIA
-# This repository is for our requirement in BAT404 - Analytics Techniques and Tools (ITBA-3206) 
+**_This repository is for our requirement in BAT404 - Analytics Techniques and Tools (ITBA-3206)_**
 **_Introduction_**
 
 The Philippines is vulnerable to natural disasters due to its location along the typhoon belt and the Pacific ring of fire. Thousands of lives have been lost, millions of people have been displaced, and hundreds of billions of dollars have been lost as a result of disaster events in the last decade.
