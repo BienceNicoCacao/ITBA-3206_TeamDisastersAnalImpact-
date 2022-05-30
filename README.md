@@ -4,11 +4,11 @@
 # Project Title: Strategic Preparedness for Disaster with DIA
 **_This repository is for our requirement in BAT404 - Analytics Techniques and Tools (ITBA-3206)_**
 
-#### SDG
+### **SDG**
 
 **_Goal 11: SUSTAINABLE CITIES AND COMMUNITIES  &   Goal 13: CLIMATE ACTION_**
 
-<img src="sdg11.png" width="100" height="100"> <img src="sdg13.png" width="100" height="100">
+<img src="sdg11.png" width="200" height="200"> <img src="sdg13.png" width="200" height="200">
 
 ## Introduction
 
