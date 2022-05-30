@@ -18,7 +18,7 @@ The Philippines is one of the most affected countries by natural disasters in th
 Disasters can happen at any time. 
 So we envision a world in which communities are filled with hope, have overcome adversity, are prepared for disasters, and have recovered from traumatic experiences.
 
-To protect your home and family, it's important to be prepared and have a plan. The objective of this analysis is to generate an explanation for Disasters Impact Analysis (DIA) from the year 2019 to reduce disaster consequences in terms of recovery time, cost, and suffering. Moreover, to expand the awareness of each Filipino citizen and to lessen the impact of disasters on vulnerable populations, prepares an organization for an influx of activities, and creates a coordinated plan that saves resources, time, and effort.
+To protect your home and family, it's important to be prepared and have a plan. The objective of this analysis is to generate an explanation for Disasters Impact Analysis (DIA) from the year 2020 to reduce disaster consequences in terms of recovery time, cost, and suffering. Moreover, to expand the awareness of each Filipino citizen and to lessen the impact of disasters on vulnerable populations, prepares an organization for an influx of activities, and creates a coordinated plan that saves resources, time, and effort.
 
 **_Problem Statement_**
 
