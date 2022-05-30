@@ -8,7 +8,7 @@
 
 **_Goal 11: SUSTAINABLE CITIES AND COMMUNITIES  &   Goal 13: CLIMATE ACTION_**
 
-
+<img src="sdg11.jpg" width="500" height="500"> <img src="sdg13.jpg" width="500" height="500">
 
 ## Introduction
 
