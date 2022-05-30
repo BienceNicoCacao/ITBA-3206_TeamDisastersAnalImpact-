@@ -90,8 +90,6 @@ https://www.academia.edu/31599996/_CASE_STUDY_AWARENESS_ON_DISASTER_AND_DISASTER
 
 https://www.academia.edu/30871046/Chapter_1_Problem_and_Its_Scope
 
-**_Data sets used_**
-
-https://datasetguide.com/dataset/cff7b10ced76bff0bf977ea7b3595a00/
+**_Dataset used_**
 
 https://datasetguide.com/dataset/2ab18842186b0112053079efab9db420/
