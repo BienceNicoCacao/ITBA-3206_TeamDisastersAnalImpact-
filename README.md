@@ -10,6 +10,10 @@
 
 <img src="sdg11.png" width="200" height="200"> <img src="sdg13.png" width="200" height="200">
 
+
+**_Video Presentation Link_**
+https://youtu.be/UT_Cj4ZG6ho
+
 ## Introduction
 
 The Philippines is vulnerable to natural disasters due to its location along the typhoon belt and the Pacific ring of fire. Thousands of lives have been lost, millions of people have been displaced, and hundreds of billions of dollars have been lost as a result of disaster events in the last decade.
